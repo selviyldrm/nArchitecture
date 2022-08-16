@@ -6,10 +6,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Application.Services.Repositories
+namespace Application.Repositories
 {
-    public interface IBrandRepository: IAsyncRepository<Brand>, IRepository<Brand>
+    public interface IBrandRepository:IAsyncRepository<Brand>,IRepository<Brand>
     {
-
     }
 }

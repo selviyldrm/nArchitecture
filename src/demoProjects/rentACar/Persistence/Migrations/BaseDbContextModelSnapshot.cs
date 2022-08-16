@@ -43,7 +43,7 @@ namespace Persistence.Migrations
                         new
                         {
                             Id = 1,
-                            Name = "BMW"
+                            Name = "Bmw"
                         },
                         new
                         {
